@@ -1,6 +1,6 @@
 # LESS vs. Less
 
-This project, forked from Joni Korpi's [Less Framework](http://lessframework.com), aims to combine his awesome work with the super-cool [LESS CSS](http://lesscss.org). Mostly it'll just make things easier for me to code, but I thought I'd stick it up on GitHub if it came out well.
+This project, forked from Joni Korpi's [Less Framework](http://lessframework.com), aims to combine his awesome work with the super-cool [LESS CSS](http://lesscss.org). Mostly it just make things easier for me to code, but I thought I'd stick it up on GitHub since it came out well.
 
 Without further ado, please allow me to present Joni Korpi's original README:
 
