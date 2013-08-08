@@ -2,13 +2,11 @@
 
 This project, forked from Joni Korpi's [Less Framework](http://lessframework.com), aims to combine his awesome work with the super-cool [LESS CSS](http://lesscss.org). Mostly it just make things easier for me to code, but I thought I'd stick it up on GitHub since it came out well.
 
-Without further ado, please allow me to present Joni Korpi's original README:
+*NOTE:* I'm not really using this anymore. Since then I've moved on to using either fluid em-based grids or hand-coded breakpoints. That being said, Joni's framework has informed the way I work and lay out styles to this day.
 
-#ORIGINAL
-
-Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
-
-For more information, visit http://lessframework.com/
+> Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
+> 
+> For more information, visit http://lessframework.com/
 
 ## Differences to the version at lessframework.com
 
